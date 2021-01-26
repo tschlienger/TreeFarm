@@ -23,13 +23,14 @@ refreshtimer = 1
 
 Wood = {
   [ "minecraft:log" ]=true,
-  [ "IC2:blockRubWood" ]=true,
-  [ "minecraft:leaves" ]=true
+  [ "ic2:rubber_wood" ]=true,
+  [ "minecraft:leaves" ]=true,
+  ["ic2:leaves"]=true
 }
 
 Sapling = {
   [ "minecraft:sapling" ]=true,
-  [ "IC2:blockRubSapling" ]=true
+  [ "ic2:sapling" ]=true
 }
 
 Dirt = {
